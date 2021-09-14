@@ -6,7 +6,11 @@
 ## I'm a Husband, Developer, Writer, Thinker, Adventurer, Blogger and Teacher!!
 
 - 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to sketch, sclupture and touring
+- 🧳 Go beond the network to explore the wild nature of the world
+- ⚡ Fun fact: I love to sketch, sculpture, Classical songs
+- 🚴‍♂️ Cycling is Passion
+- 🛠 Working as a Electronics Design Engineer
+
 
 ### Connect with me:
 
