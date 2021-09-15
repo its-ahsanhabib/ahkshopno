@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/website?label=itsahsan.me&style=for-the-badge&url=https%3A%2F%2itsahsan.me)](https://itsahsan.me/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahkshopno?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ahkshopno)
 
-## I'm a Husband, Developer, Writer, Thinker, Adventurer, Blogger and Teacher!!
+## I'm a Developer, Blogger, Writer, Thinker, Adventurer Teacher and Husband
 
 - 🌱 I’m currently learning everything 🤣
 - 🧳 Go beond the network to explore the wild nature of the world
