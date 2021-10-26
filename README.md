@@ -78,7 +78,3 @@
 [instagram]: https://instagram.com/ahsan_habib_kanak
 [linkedin]: https://linkedin.com/in/ahsanhabibete/
 [myprofoliyo]:https://itsahsan.me/#/portfolio
-
-<figure class="video_container">
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_iuMXnp61wlo4amm5nvHr4Ir8VUzisJSBsr7YEL7fKWAiT-9bmehyngtb9TYaFEsFnRokCyIXwsvY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</figure>
