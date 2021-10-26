@@ -80,5 +80,5 @@
 [myprofoliyo]:https://itsahsan.me/#/portfolio
 
 <figure class="video_container">
-  <iframe src="https://replit.com/@ahkshopno/json-parser#main.c" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://replit.com/@ahkshopno/json-parser" frameborder="0" allowfullscreen="false"> </iframe>
 </figure>
