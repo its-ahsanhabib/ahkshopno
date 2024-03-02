@@ -10,8 +10,11 @@
 - ⚡ Fun fact: I love to sketch, sculpture, Classical songs
 - 🚴‍♂️ Cycling is Passion
 - 🛠 Working as a Electronics Design Engineer
+<br />
+For a market ready production product I am happy to share my experience with you to bring your idea in market. I have been working for more than 7 years with Embedded Hardware and Software. I am a focused Embedded Software engineer with working experience of ARM, RISC-V, ESP, NXP and many Chinese MCUs. I am also familiar with the Various M2M communication protocol USB, I2C, CAN, SPI, UART and many more, for convenience I can work on Linux based SDK gor booth bearmetal MCU, RTOS and Embedded Linux. I have developed Consumer electronics and  Industrial products, some of my developed products include Openwrt based Router and IoT gateway, Aircon Hardware and Firmware, Heatpump, BLE Audio Player, EVSE, Cellular Based Vehicles Tracker with GNSS support, IoT Wifi Modem to enable any Embedded device get wifi command from App or Cloud Based System over UART. 
 
-
+I am still learning new things I don't know, and I always accept opinions to kill and justify my decision. I am a great team player.
+<br />
 ### Connect with me:
 
 [<img align="left" alt="itsahsan.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
